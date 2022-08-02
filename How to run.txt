@@ -1,0 +1,9 @@
+1. Extract the program2 b folder in directory.
+2. Launch the Android Studio.
+3. Go to file Upload and select the program2 b folder.
+4. Let the android studio to load everything.
+5. Launch the application using the launch button at top right in the emulator of android studio.
+6. To launch in physical mobile device connect the device through datacable. Enable the debugger option.
+7.Go to mobile setings-> developer option->Enable USB Debugging.
+8. Also enable install via USB in the developer option.
+9. Now click on launch button on android studio.
